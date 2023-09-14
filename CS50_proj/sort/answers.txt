@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Sorting time increases with complexity suggesting big O is different than rho and it also was the slowest.
+
+sort2 uses: Merge Sort
+
+How do you know?: It was the fastest among the 3 and sort did not vary with complexity suggesting same big o and rho notation.
+
+sort3 uses: Selection Sort
+
+How do you know?: It was the second fastest and sorting time did not vary with complexity suggesting same big o and rho notation.
